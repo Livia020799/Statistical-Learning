@@ -24,7 +24,8 @@ Our group opted for a ***Data-over-Method*** type of project, where the primary 
 **This project (plus the homeworks) received a perfect score of 30 out of 30 on the final exam.** Feel free to use it as a reference if you are planning to take the exam in the upcoming years.<br> 
 Please do not hesitate to contact me if you need further explanations or encounter any issues with the materials.
 
-![image](https://github.com/Livia020799/Statistical-Learning/assets/146645775/b87ca239-0a79-481f-8b1f-5efab59ed092)
+![image](https://github.com/Livia020799/Statistical-Learning/assets/146645775/a17046e2-78e8-4976-882a-5f9a70d4df0b)
+
 
  
 

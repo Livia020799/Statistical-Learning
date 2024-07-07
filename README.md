@@ -19,7 +19,7 @@ Our group opted for a ***Data-over-Method*** type of project, where the primary 
 - `Support Vector Machine.R`
 - `Random Forest.R`
 - `K-Prototypes.R`
-- `Neural Network.ipynb`
+- `Neural Network.ipynb`<br>
 This approach is designed to provide valuable insights that assist both novice and professional players in building effective competitive teams. Additionally, the project involved the creation of competitive Pokémon teams for each model tested (`results.csv`), using an algorithm named Pesca Pokémon, detailed in ***Chapter 4*** of the project documentation. These teams were subsequently tested on the [Pokémon Showdown](https://pokemonshowdown.com/) website to practically evaluate each team's performance in real-world competitive scenarios.
 
 -------------------------------------------------------------------------------------------------------------------------------------

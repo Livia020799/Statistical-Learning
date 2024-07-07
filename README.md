@@ -15,12 +15,14 @@ Directly from the course moodle page here you can see the project guidelines:
 
 ![image](https://github.com/Livia020799/Statistical-Learning/assets/146645775/a49ae30a-8da9-4276-9f8b-36015f521df4)
 
-Our group opted for a ***Data-over-Method*** type of project, where the primary objective was to employ statistical learning techniques to determine the key characteristics that render a Pokémon competitively viable. We constructed a dataset from the latest competitive Pokémon format (VGC24) and applied various predictive models: <br>
+Our group opted for a ***Data-over-Method*** type of project, where the primary objective was to employ statistical learning techniques to determine the key characteristics that render a Pokémon competitively viable.<br> 
+We constructed a dataset from the latest competitive Pokémon format (VGC24) and applied various predictive models: <br>
 - `Support Vector Machine.R`
 - `Random Forest.R`
 - `K-Prototypes.R`
 - `Neural Network.ipynb`<br>
-This approach is designed to provide valuable insights that assist both novice and professional players in building effective competitive teams. Additionally, the project involved the creation of competitive Pokémon teams for each model tested (`results.csv`), using an algorithm named Pesca Pokémon, detailed in ***Chapter 4*** of the project documentation. These teams were subsequently tested on the [Pokémon Showdown](https://pokemonshowdown.com/) website to practically evaluate each team's performance in real-world competitive scenarios.
+This approach is designed to provide valuable insights that assist both novice and professional players in building effective competitive teams. Additionally, the project involved the creation of competitive Pokémon teams for each model tested (`results.csv`), using an algorithm named Pesca Pokémon, detailed in ***Chapter 4*** of the project documentation.<br>
+These teams were subsequently tested on the [Pokémon Showdown](https://pokemonshowdown.com/) website to practically evaluate each team's performance in real-world competitive scenarios.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 

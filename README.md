@@ -5,7 +5,8 @@ This repository hosts the final project (***`Pokémon_project_G13`***) for Stati
 
 ### **Exam Structure**
 
-The exam in Statistical Learning consisted of three homeworks and a final project. Instead of the final assignment, students had the option to participate in a hackathon. This repository details the final project component of the course.
+The exam in Statistical Learning consisted of three homeworks and a final project. Instead of the final assignment, students had the option to participate in a hackathon.<br> 
+This repository details the final project component of the course.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 

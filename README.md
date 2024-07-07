@@ -7,6 +7,8 @@ This repository hosts the final project for Statistical Learning exam, held by p
 
 The exam in Statistical Learning consisted of three homeworks and a final project. Instead of the final assignment, students had the option to participate in a hackathon. This repository details the final project component of the course.
 
+-------------------------------------------------------------------------------------------------------------------------------------
+
 ### **Project Overview**
 
 Directly from the course moodle page here you can see the project guidelines:
